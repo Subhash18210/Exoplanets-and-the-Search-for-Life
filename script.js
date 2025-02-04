@@ -12,22 +12,22 @@ const levels = [
         ],
         questions: [
             {
-            question: "How do exoplanets relate to the search for extraterrestrial life?",
+            question: "How do exoplanets relate to the search for extraterrestrial life ?",
             options: ["They are irrelevant to the search", "They expand the search for extraterrestrial life", "They are all uninhabitable", "They are only gas giants"],
             answer: 1
             },
             {
-            question: "Which factors are crucial for the possibility of life on exoplanets?",
+            question: "Which factors are crucial for the possibility of life on exoplanets ?",
             options: ["Liquid water and distance from Earth", "Presence of moons and rings", "Liquid water, atmosphere, and suitable temperatures", "Only proximity to the Sun"],
             answer: 2
             },
             {
-            question: "What is the Fermi Paradox?",
+            question: "What is the Fermi Paradox ?",
             options: ["The belief in multiple universes", "A theory about the Big Bang", "A question about the lack of evidence for extraterrestrial life", "A concept related to time travel"],
             answer: 2
             },
             {
-            question: "What are biosignatures?",
+            question: "What are biosignatures ?",
             options: ["Signs of a planet's size", "Indicators of life in an atmosphere", "Geological formations on planets", "The distance to a planet"],
             answer: 1
             },
